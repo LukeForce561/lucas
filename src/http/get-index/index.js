@@ -21,7 +21,7 @@ exports.handler = async function Index () {
     twitter: 'riverBI_consult',
     linkedin: 'lucasriverbi',
     instagram: 'lucasriverbi',
-    facebook: 'your-facebook-name',
+    facebook: 'LucasRibeiro561',
 
     /**
      * Layout
